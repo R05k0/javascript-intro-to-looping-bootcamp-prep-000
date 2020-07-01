@@ -17,3 +17,6 @@ function whileLoop(num) {
 
 	return 'done';
 }
+function doWhileLoor[i] {
+  
+}
